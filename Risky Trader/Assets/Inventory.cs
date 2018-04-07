@@ -6,7 +6,7 @@ public class Inventory : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+		//A Comment
 	}
 	
 	// Update is called once per frame
